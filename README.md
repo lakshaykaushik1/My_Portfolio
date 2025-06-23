@@ -6,7 +6,7 @@
 
 A modern, animated, and immersive 3D developer portfolio built using **React**, **Next.js**, **Three.js**, **Node.js**, and **Vite**. Designed to showcase technical skills, projects, and creativity through an engaging user experience.
 
-🌐 **Live Preview**: [https://lakshaykaushik.netlify.app](https://lakshaykaushik.netlify.app)
+🌐 **Live Preview**: [My_Site](https://lakshaykaushik.netlify.app)
 
 ---
 
