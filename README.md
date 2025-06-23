@@ -34,7 +34,7 @@ A modern, animated, and immersive 3D developer portfolio built using **React**, 
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./public/preview.png) <!-- Replace this with your actual screenshot path -->
+![Portfolio Screenshot](./preview.png) 
 
 ---
 
